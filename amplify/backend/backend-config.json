@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "academicwebsite": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "documents": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
