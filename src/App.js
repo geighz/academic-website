@@ -1,7 +1,4 @@
 import React from 'react';
-import Amplify, { Storage } from 'aws-amplify';
-import awsconfig from './aws-exports';
-Amplify.configure(awsconfig);
 import Block from './Block';
 import Header from './Header';
 import {research} from './text';
@@ -12,7 +9,9 @@ import ucarePDF from './documents/UCARE.pdf';
 import './css/App.css';
 import fishPDF from './documents/FishLengthSimulationPaper.pdf';
 import { Document, Page, pdfjs} from 'react-pdf';
-
+import Amplify, { Storage } from 'aws-amplify';
+import awsconfig from './aws-exports';
+Amplify.configure(awsconfig);
 
 class App extends React.Component{
   render(){
