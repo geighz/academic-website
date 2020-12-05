@@ -5,9 +5,9 @@ import {research} from './text';
 import {positions} from './text';
 import {groups} from './text';
 import {conferences} from './text';
-import ucarePDF from './ucare.pdf';
+import ucarePDF from './documents/UCARE.pdf';
 import './css/App.css';
-import fishPDF from './FishLengthSimulationPaper.pdf';
+import fishPDF from './documents/FishLengthSimulationPaper.pdf';
 import { Document, Page, pdfjs} from 'react-pdf';
 
 

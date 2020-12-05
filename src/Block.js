@@ -1,8 +1,8 @@
 import React from 'react';
 import HrefFormater from './HrefFormater';
 import { Document, Page } from 'react-pdf';
-import ucarePDF from './ucare.pdf';
-import fishPDF from './FishLengthSimulationPaper.pdf';
+import ucarePDF from './documents/UCARE.pdf';
+import fishPDF from './documents/FishLengthSimulationPaper.pdf';
 const Block = (props) => {
   const renderedListLink = props.links.map(link => {
     return <HrefFormater link={link}/>;

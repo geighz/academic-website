@@ -22,6 +22,7 @@ export const research  = [
     "of Nebraska-Lincoln."],
     links: [
       {desc: 'Link to article', link:'https://journalstar.com/news/local/education/following-gerrymandering-court-cases-unl-class-looks-at-the-underlying-math/article_7f1b248b-8fd3-5bb3-83f4-33a171d612ac.html'},
+      {desc: 'Link to Code', link:'https://github.com/geighz/MATH435'},
     ],
   },
   {
@@ -101,15 +102,33 @@ export const conferences = [
 export const skills = [
   {
     id: 1,
-    title: 'Skills/Key Courses',
-    message: ['.....'+
-     '\n\u2022 ..... '+
-     '\n\u2022 .....  '+
-     '\n\u2022 .... '+
-     '\n\u2022 .... '+
-     '\n\u2022 .... '+
-     '\n\u2022 .... '+
-     '\n\u2022 ....'],
+    title: 'Upper level courses and Technical Skills',
+    message: ['Operating Systems and Kernels in C/C++'+
+     '\n\u2022 Data structures and Algorithms 2 '+
+     '\n\u2022 Data Mining'+
+     '\n\u2022 Unix'+
+     '\n\u2022 Elementary Analysis'+
+     '\n\u2022 Numerical Analysis'+
+     '\n\u2022 Discrete Math'+
+     '\n\u2022 Principles of Operations Research'+
+     '\n\u2022 Linear Algebra'+
+     '\n\u2022 Calculus 1-3'+
+     '\n\u2022 Math in the City',
+     '\n\u2015 Java'+
+     '\n\u2015 C/C++'+
+     '\n\u2015 Python'+
+     '\n\u2015 SQL'+
+     '\n\u2015 JavaScript'+
+     '\n\u2015 R'+
+     '\n\u2015 ReactJs'+
+     '\n\u2015 Matlab'+
+     '\n\u2015 Latex'+
+     '\n\u2015 Combinatorics'+
+     '\n\u2015 Proofs'+
+     '\n\u2015 Public Speaking'+
+     '\n\u2015 GIT'+
+     '\n\u2015 AWS'+
+     '\n\u2015 Spring boot'],
     links: [
       {desc:'', link:''},
     ],

@@ -12,13 +12,11 @@ const Header = () =>{
         <div className="ui big header">Contact: gzollicoffer2@huskers.unl.edu</div>
         <div className="ui small header">About</div>
           <p>Hello! My name is Geigh Zollicoffer. I am a recent graduate from
-          the University of Nebraska-Lincoln.
-          I completed my double major in Computer Science and Mathematics with a minor in Music.
+          the University of Nebraska-Lincoln, and I wrote and
+          currently host this website.
+          I completed my double major in Computer Science and Mathematics with a minor in Music, and
           I am interested in continuing my education in the
-          areas of Applied Mathematics and Data Science. I wrote and
-          currently host this website, and eventually I expect to use it as an academic website template
-          during my graduate studies. Until then, this page simply serves as supplemental info for my
-          undergraduate CV. Currently, I work as a data scientist at Catch Intelligence in Omaha, Ne, and
+          areas of Applied Mathematics and Data Science. Currently, I work as a data scientist at Catch Intelligence in Omaha, Ne, and
           also as a volunteer software engineer for Food for All, a nonprofit organization
           located in the United Kingdom. Outside of academics and work,
           my hobbies include running, NBA basketball, audio engineering, and piano.
