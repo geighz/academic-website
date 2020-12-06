@@ -7,8 +7,8 @@ export const research  = [
     "This work resulted in a paper submitted to the Rose-Hulman Undergraduate Mathematics Journal.",
     "Research mentor: Richard Rebarber, University of Nebraska-Lincoln. "],
     links: [
-      {desc: 'Link to Paper', link: 'fishPDF'},
-      {desc: 'Link to Slides/Poster', link: 'ucarePDF'},
+      {desc: 'Link to Paper', link: 'FishLengthSimulationPaper (2).pdf',type:'pdf'},
+      {desc: 'Link to Slides/Poster', link: 'UCARE.pdf', type:'pdf'},
     ],
   },
   {
@@ -21,8 +21,8 @@ export const research  = [
     "Research mentor: Richard Rebarber, University "+
     "of Nebraska-Lincoln."],
     links: [
-      {desc: 'Link to article', link:'https://journalstar.com/news/local/education/following-gerrymandering-court-cases-unl-class-looks-at-the-underlying-math/article_7f1b248b-8fd3-5bb3-83f4-33a171d612ac.html'},
-      {desc: 'Link to Code', link:'https://github.com/geighz/MATH435'},
+      {desc: 'Link to article', link:'https://journalstar.com/news/local/education/following-gerrymandering-court-cases-unl-class-looks-at-the-underlying-math/article_7f1b248b-8fd3-5bb3-83f4-33a171d612ac.html', type:'url'},
+      {desc: 'Link to Code', link:'https://github.com/geighz/MATH435', type: 'url'},
     ],
   },
   {
@@ -34,8 +34,8 @@ export const research  = [
     "by Butler, Hajiaghayi, Kleinberg, and Leighton.",
     "Research mentor: Patrick Devlin, Yale University"],
     links: [
-      {desc: 'Link to paper studied', link:'https://epubs.siam.org/doi/abs/10.1137/060652774?journalCode=sjdmec'},
-      {desc: 'Link to code used', link:'https://github.com/geighz/Hat-Guessing-Game-PolyMath-Reu-2020'},
+      {desc: 'Link to paper studied', link:'https://epubs.siam.org/doi/abs/10.1137/060652774?journalCode=sjdmec',type:'url'},
+      {desc: 'Link to code used', link:'https://github.com/geighz/Hat-Guessing-Game-PolyMath-Reu-2020',type:'url'},
     ],
   },
 ]
@@ -46,8 +46,8 @@ export const positions = [
     message:[" Worked with UNL/SCC/WNCC colleges in Nebraska, "+
     "mentoring 21 younger students in (or planning to major in) a STEM field"],
     links: [
-      {desc: 'Link to Program', link:'https://scimath.unl.edu/stem-connect/'},
-      {desc: 'Link to Personal Bio', link:'https://www.math.unl.edu/profiles/geigh-zollicoffer'},
+      {desc: 'Link to Program', link:'https://scimath.unl.edu/stem-connect/',type:'url'},
+      {desc: 'Link to Personal Bio', link:'https://www.math.unl.edu/profiles/geigh-zollicoffer',type:'url'},
     ],
   },
   {
@@ -56,7 +56,7 @@ export const positions = [
     message:["Held office hours, graded labs, and assignments relating to C+ programming. " +
     "In charge of helping students finish projects, and lab sessions."],
     links: [
-      {desc: 'Link to Program', link:'https://cse.unl.edu/learning-assistant-program'},
+      {desc: 'Link to Program', link:'https://cse.unl.edu/learning-assistant-program',type:'url'},
     ],
   },
   {
@@ -65,7 +65,7 @@ export const positions = [
     message:["Delivered presentations to students and parents about budgeting practices "+
     "and coordinated one on one meetings with students who struggled with financial issues."],
     links: [
-      {desc: 'Link to Program', link:'https://www.unl.edu/smmc/student-money-management-center'},
+      {desc: 'Link to Program', link:'https://www.unl.edu/smmc/student-money-management-center',type:'url'},
     ],
   },
 
@@ -82,7 +82,7 @@ export const groups = [
      '\n\u2015 Math Alliance '+
      '\n\u2015 Oasis '],
     links: [
-      {desc:'', link:''},
+      {desc:'', link:'',type:''},
     ],
   },
 ]
@@ -95,7 +95,7 @@ export const conferences = [
      'Field of Dreams',
      'NCUR 2021 \n\u066D'],
     links: [
-      {desc:'', link:''},
+      {desc:'', link:'', type:''},
     ],
   },
 ]
@@ -130,7 +130,7 @@ export const skills = [
      '\n\u2015 AWS'+
      '\n\u2015 Spring boot'],
     links: [
-      {desc:'', link:''},
+      {desc:'', link:'', type:''},
     ],
   },
 ]
