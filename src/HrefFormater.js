@@ -3,7 +3,7 @@ import { Document, Page } from 'react-pdf';
 import ucarePDF from './documents/UCARE.pdf';
 import fishPDF from './documents/FishLengthSimulationPaper.pdf';
 import PdfOut from './subcomponents/PdfOut';
-class HrefFormater = (props) = {
+class HrefFormater extends React.Component{
   if(!props.link.type){
     return <div></div>;
   }
