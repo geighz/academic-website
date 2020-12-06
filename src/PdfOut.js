@@ -20,7 +20,7 @@ class PdfOut extends React.Component{
       return(
         <a href= {this.state.fileUrl} without rel="noopener noreferrer" target="_blank">
           <div class="ui animated button" tabindex="0">
-            <div class="visible content">{props.link.desc}</div>
+            <div class="visible content">{this.props.link.desc}</div>
               <div class="hidden content">
                 <i class="right arrow icon"></i>
               </div>
