@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import Amplify, { Storage } from 'aws-amplify';
 import awsconfig from './aws-exports';
 Amplify.configure(awsconfig);
