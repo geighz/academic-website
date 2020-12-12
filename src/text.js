@@ -21,7 +21,7 @@ export const research  = [
     "Research mentor: Richard Rebarber, University "+
     "of Nebraska-Lincoln."],
     links: [
-      {desc: 'Link to Nebraska article', link:'https://www.math.unl.edu/mitc-gerrymandering', type:'url'},
+      {desc: 'Link to News article', link:'https://www.math.unl.edu/mitc-gerrymandering', type:'url'},
       {desc: 'Link to UNL article', link:'https://journalstar.com/news/local/education/following-gerrymandering-court-cases-unl-class-looks-at-the-underlying-math/article_7f1b248b-8fd3-5bb3-83f4-33a171d612ac.html', type:'url'},
       {desc: 'Link to Code', link:'https://github.com/geighz/MATH435', type: 'url'},
     ],
