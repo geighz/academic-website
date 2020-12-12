@@ -1,4 +1,28 @@
 {
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-academic-website-master-174947-authRole",
+      "UnauthRoleArn": "arn:aws:iam::952162670714:role/amplify-academic-website-master-174947-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::952162670714:role/amplify-academic-website-master-174947-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-academic-website-master-174947-deployment",
+      "UnauthRoleName": "amplify-academic-website-master-174947-unauthRole",
+      "StackName": "amplify-academic-website-master-174947",
+      "StackId": "arn:aws:cloudformation:us-east-2:952162670714:stack/amplify-academic-website-master-174947/432a74d0-3bd9-11eb-bdc1-0a62c6fd98b8",
+      "AmplifyAppId": "d3hikf33xx7vm"
+    },
+    "categories": {
+      "auth": {
+        "academicwebsitee74110e6": {}
+      },
+      "storage": {
+        "academic_websited7ec1215": {
+          "bucketName": "academicdocs",
+          "region": "us-east-1"
+        }
+      }
+    }
+  },
   "main": {
     "awscloudformation": {
       "AuthRoleName": "amplify-academicwebsite-main-55417-authRole",

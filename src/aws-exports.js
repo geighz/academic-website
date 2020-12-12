@@ -3,18 +3,20 @@
 
 const awsmobile = {
     "aws_project_region": "us-east-2",
-    "aws_cognito_identity_pool_id": "us-east-2:eb6b0d7f-350b-4326-a329-655307cd08a0",
+    "aws_cognito_identity_pool_id": "us-east-2:c1c999eb-eb34-4031-8a58-d07e0d66304b",
     "aws_cognito_region": "us-east-2",
-    "aws_user_pools_id": "us-east-2_5jOwACAMV",
-    "aws_user_pools_web_client_id": "4nofm7lb3bounivg0m2djb0emt",
+    "aws_user_pools_id": "us-east-2_zhZTiWAYd",
+    "aws_user_pools_web_client_id": "4s43cj4sb4u831vdfopmdla54v",
     "oauth": {},
-    "aws_content_delivery_bucket": "documentbucket-staging",
+    "aws_user_files_s3_bucket": "academicdocs",
+    "aws_user_files_s3_bucket_region": "us-east-1",
+    "aws_content_delivery_bucket": "academicdocs-master-master",
     "aws_content_delivery_bucket_region": "us-east-2",
-    "aws_content_delivery_url": "http://documentbucket-staging.s3-website.us-east-2.amazonaws.com",
-    "aws_appsync_graphqlEndpoint": "https://3hujyasukzcrdg2xbz5mljfgka.appsync-api.us-east-2.amazonaws.com/graphql",
+    "aws_content_delivery_url": "http://academicdocs-master-master.s3-website.us-east-2.amazonaws.com",
+    "aws_appsync_graphqlEndpoint": "https://ibwmbone2nakfeo25lnx4nodoe.appsync-api.us-east-2.amazonaws.com/graphql",
     "aws_appsync_region": "us-east-2",
     "aws_appsync_authenticationType": "API_KEY",
-    "aws_appsync_apiKey": "da2-qhhfmvzzdnfibhjszutsl3rxku"
+    "aws_appsync_apiKey": "da2-twxk3frsu5bv7jenyy737wdb7u"
 };
 
 
