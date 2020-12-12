@@ -7,8 +7,8 @@ export const research  = [
     "This work resulted in a paper submitted to the Rose-Hulman Undergraduate Mathematics Journal.",
     "Research mentor: Richard Rebarber, University of Nebraska-Lincoln. "],
     links: [
-      {desc: 'Link to Paper', link: 'FishLengthSimulationPaper (2).pdf',type:'pdf'},
-      {desc: 'Link to Slides/Poster', link: 'UCARE.pdf', type:'pdf'},
+      {desc: 'Link to Paper', link: 'public/FishLengthSimulationPaper (2).pdf',type:'pdf'},
+      {desc: 'Link to Slides/Poster', link: 'public/UCARE.pdf', type:'pdf'},
     ],
   },
   {
