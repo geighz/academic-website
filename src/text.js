@@ -8,7 +8,7 @@ export const research  = [
     "Research mentor: Richard Rebarber, University of Nebraska-Lincoln. "],
     links: [
       {desc: 'Link to Paper', link: 'FishLengthSimulationPaper (2).pdf',type:'pdf'},
-      {desc: 'Link to Slides/Poster', link: 'UCARE.pdf', type:'pdf'},
+      {desc: 'Link to Slides/Poster', link: 'https://academicdocs.s3.amazonaws.com/UCARE.pdf', type:'url'},
     ],
   },
   {
