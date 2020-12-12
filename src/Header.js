@@ -13,7 +13,7 @@ const Header = () =>{
         <div className="ui small header">About</div>
           <p>Hello! My name is Geigh Zollicoffer. I am a recent graduate from
           the University of Nebraska-Lincoln, and I wrote and
-          currently host this website.
+          currently host this AWS website.
           I completed my double major in Computer Science and Mathematics with a minor in Music, and
           I am interested in continuing my education in the
           areas of Applied Mathematics and Data Science. Currently, I work as a data scientist at Catch Intelligence in Omaha, Ne, and
