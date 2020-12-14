@@ -18,8 +18,7 @@ const Header = () =>{
           I am interested in continuing my education in the
           areas of Applied Mathematics and Data Science. Currently, I work as a data scientist at Catch Intelligence in Omaha, Ne, and
           also as a volunteer software engineer for Food for All, a nonprofit organization
-          located in the United Kingdom. I typically always take on github projects if I 
-          have time!  However, outside of academics and work,
+          located in the United Kingdom. However, outside of academics and work,
           my hobbies include running, NBA basketball, audio engineering, and piano.
           My current side projects include learning how to build an iOS app using
           the programming language Swift, and recording
