@@ -93,8 +93,7 @@ export const conferences = [
     title: 'Talk given at conference\n\u066D',
     message: [' UNL Undergraduate Research Symposium \n\u066D',
      'SACNAS \n\u066D',
-     'Field of Dreams',
-     'NCUR 2021 \n\u066D'],
+     'Field of Dreams'],
     links: [
       {desc:'', link:'', type:''},
     ],
