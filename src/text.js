@@ -75,7 +75,7 @@ export const groups = [
   {
     id: 1,
     title: 'Undergraduate Organizations/Societies/Clubs',
-    message: ['\u2015 Broader Communications and Technology Student Group'+
+    message: ['\u2015 Broader Considerations and Technology Student Group'+
      '\n\u2015 National Society of Black Engineers '+
      '\n\u2015 Society for Advancement of Chicanos and Native Americans in Science  '+
      '\n\u2015 UNL Programming Club '+
