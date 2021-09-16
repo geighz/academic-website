@@ -9,7 +9,7 @@ const Header = () =>{
     <div className="ui two column grid">
       <div className = "column">
         <div className="ui huge header">Geigh Zollicoffer</div>
-        <div className="ui big header">Contact: gzollicoffer2@huskers.unl.edu</div>
+        <div className="ui big header">Contact: gzollicoffer3@gatech.unl.edu</div>
         <div className="ui small header">About</div>
           <p>Hello! My name is Geigh Zollicoffer. I am a recent graduate from
           the University of Nebraska-Lincoln, and I wrote and
