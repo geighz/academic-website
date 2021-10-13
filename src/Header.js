@@ -11,18 +11,17 @@ const Header = () =>{
         <div className="ui huge header">Geigh Zollicoffer</div>
         <div className="ui big header">Contact: gzollicoffer3@gatech.edu</div>
         <div className="ui small header">About</div>
-          <p>Hello! My name is Geigh Zollicoffer. I am a recent graduate from
-          the University of Nebraska-Lincoln, and I wrote and
-          currently host this AWS website.
-          I completed my double major in Computer Science and Mathematics with a minor in Music, and
-          I am interested in continuing my education in the
-          areas of Applied Mathematics and Data Science. Currently, I work as a data scientist at Catch Intelligence in Omaha, Ne, and
-          also as a volunteer software engineer for Food for All, a nonprofit organization
-          located in the United Kingdom. However, outside of academics and work,
-          my hobbies include running, NBA basketball, audio engineering, and piano.
-          My current side projects include learning how to build an iOS app using
-          the programming language Swift, and recording
-          podcasts with my friends.
+          <p>Hello! My name is Geigh Zollicoffer. I am current PhD student at The Georgia Institute of Technology! I wrote and
+          currently host this AWS website, please email me if you find any bugs! AWS can play tricks on me sometimes.
+          Anyways, I completed my double major in Computer Science and Mathematics with a minor in Music, and
+          I am interested in the
+          areas of Applied Mathematics, Machine Learning, Deep Learning, and Optimization.
+          Previously, I have worked as a data scientist consultant, 
+          a software engineer(paid and volunteer), a cyber security intern, and have done research involving the University of Nebraska, and Yale Univeristy.
+          Concerning academics, my experiences are shown below.
+          However, outside of academics and work,
+          my hobbies include running, NBA basketball, audio engineering, and piano, and recording
+          podcasts with my friends. 
           </p>
       </div>
       <div className = "column">
