@@ -11,7 +11,7 @@ const Header = () =>{
         <div className="ui huge header">Geigh Zollicoffer</div>
         <div className="ui big header">Contact: gzollicoffer3@gatech.edu</div>
         <div className="ui small header">About</div>
-          <p>Hello! My name is Geigh Zollicoffer. I am current PhD student at The Georgia Institute of Technology! I wrote and
+          <p>Hello! My name is Geigh Zollicoffer. I am a current PhD student at The Georgia Institute of Technology! I wrote and
           currently host this AWS website, please email me if you find any bugs! AWS can play tricks on me sometimes.
           Anyways, I completed my double major in Computer Science and Mathematics with a minor in Music, and
           I am interested in the
