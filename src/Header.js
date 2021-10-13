@@ -20,7 +20,7 @@ const Header = () =>{
           a software engineer(paid and volunteer), a cyber security intern, and have done research involving the University of Nebraska, and Yale Univeristy.
           Concerning academics, my experiences are shown below.
           However, outside of academics and work,
-          my hobbies include running, NBA basketball, audio engineering, and piano, and recording
+          my hobbies include running, NBA basketball, audio engineering, piano, and recording
           podcasts with my friends. 
           </p>
       </div>
