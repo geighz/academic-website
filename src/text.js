@@ -3,8 +3,8 @@ export const research  = [
     id: 1,
     title: 'Population Modeling-2020',
     message:["Analyzed a Length-Structured Density-Dependent Model " +
-    "to determine long term behavior of an invasive fish species. " +
-    "This work resulted in a paper Accepted to the Rose-Hulman Mathematics Journal. SINGLE AUTHOR PEER PUBLISHED OCT 2021",
+    "to determine the probabilistic long term behavior of an invasive fish species. " +
+    "This work resulted in a paper Accepted to the Rose-Hulman Mathematics Journal, OCT 2021.",
     "Research mentor: Richard Rebarber, University of Nebraska-Lincoln. "],
     links: [
       {desc: 'Link to Paper', link: 'https://academicdocs.s3.amazonaws.com/FishLengthSimulationPaper+(2).pdf',type:'url'},
